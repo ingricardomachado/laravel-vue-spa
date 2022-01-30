@@ -35,7 +35,7 @@ A very simple Laravel 8 + Vue 2 + AdminLTE 3 SPA Application.
 ## Installation
 
 - `git clone https://github.com/ingricardomachado/laravel-vue-spa.git`
-- `cd laravel-vue-crud-starter/`
+- `cd laravel-vue-crud-spa/`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
